@@ -58,7 +58,7 @@
     "husky": "^9.1.5",
     "js-confetti": "^0.12.0",
     "lint-staged": "^15.2.9",
-    "next": "14.2.7",
+    "next": "14.2.12",
     "nextjs-google-analytics": "^2.3.7",
     "path": "^0.12.7",
     "postcss-focus-visible": "^10.0.0",
